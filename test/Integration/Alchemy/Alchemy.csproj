@@ -57,7 +57,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\src\Alchemy\Alchemy.NetCookies.csproj">
+    <ProjectReference Include="..\..\..\src\Alchemy.NetCookies\Alchemy.NetCookies.csproj">
       <Project>{45486cde-86a3-4769-952f-e0821bf79493}</Project>
       <Name>Alchemy.NetCookies</Name>
     </ProjectReference>

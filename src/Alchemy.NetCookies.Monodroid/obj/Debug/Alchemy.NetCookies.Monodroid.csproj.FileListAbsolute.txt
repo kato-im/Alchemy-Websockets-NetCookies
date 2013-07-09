@@ -1,0 +1,12 @@
+C:\git\Alchemy-Websockets-NetCookies\src\Alchemy.NetCookies.Monodroid\bin\Debug\Alchemy.NetCookies.Monodroid.config
+C:\git\Alchemy-Websockets-NetCookies\src\Alchemy.NetCookies.Monodroid\bin\Debug\Alchemy.NetCookies.Monodroid.dll
+C:\git\Alchemy-Websockets-NetCookies\src\Alchemy.NetCookies.Monodroid\bin\Debug\Alchemy.NetCookies.Monodroid.pdb
+C:\git\Alchemy-Websockets-NetCookies\src\Alchemy.NetCookies.Monodroid\bin\Debug\Alchemy.NetCookies.Monodroid.dll.mdb
+C:\git\Alchemy-Websockets-NetCookies\src\Alchemy.NetCookies.Monodroid\bin\Debug\Alchemy.NetCookies.Monodroid.apk
+C:\git\Alchemy-Websockets-NetCookies\src\Alchemy.NetCookies.Monodroid\bin\Debug\Alchemy.NetCookies.Monodroid-Signed.apk
+C:\git\Alchemy-Websockets-NetCookies\src\Alchemy.NetCookies.Monodroid\obj\Debug\Alchemy.NetCookies.Monodroid.dll
+C:\git\Alchemy-Websockets-NetCookies\src\Alchemy.NetCookies.Monodroid\obj\Debug\Alchemy.NetCookies.Monodroid.pdb
+C:\git\Alchemy-Websockets-NetCookies\src\Alchemy.NetCookies.Monodroid\obj\Debug\android\bin\Alchemy.NetCookies.Monodroid.apk
+C:\git\Alchemy-Websockets-NetCookies\src\Alchemy.NetCookies.Monodroid\obj\Debug\res\values\strings.xml
+C:\git\Alchemy-Websockets-NetCookies\src\Alchemy.NetCookies.Monodroid\obj\Debug\R.cs.flag
+C:\git\Alchemy-Websockets-NetCookies\src\Alchemy.NetCookies.Monodroid\obj\Debug\uploadflags.txt

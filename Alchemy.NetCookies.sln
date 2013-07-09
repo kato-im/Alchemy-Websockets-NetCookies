@@ -17,7 +17,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Alchemy", "Alchemy", "{D629
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alchemy", "test\Integration\Alchemy\Alchemy.csproj", "{D7B6AB15-5986-4FDC-ADA8-9EF14DF8F26D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alchemy.NetCookies", "src\Alchemy\Alchemy.NetCookies.csproj", "{45486CDE-86A3-4769-952F-E0821BF79493}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alchemy.NetCookies", "src\Alchemy.NetCookies\Alchemy.NetCookies.csproj", "{45486CDE-86A3-4769-952F-E0821BF79493}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alchemy.NetCookies.Monodroid", "src\Alchemy.NetCookies.Monodroid\Alchemy.NetCookies.Monodroid.csproj", "{1093BB98-FF06-4398-A8C1-1F48E7098FB6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,12 +71,25 @@ Global
 		{45486CDE-86A3-4769-952F-E0821BF79493}.Release|x64.ActiveCfg = Release|x64
 		{45486CDE-86A3-4769-952F-E0821BF79493}.Release|x64.Build.0 = Release|x64
 		{45486CDE-86A3-4769-952F-E0821BF79493}.Release|x86.ActiveCfg = Release|Any CPU
+		{1093BB98-FF06-4398-A8C1-1F48E7098FB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1093BB98-FF06-4398-A8C1-1F48E7098FB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1093BB98-FF06-4398-A8C1-1F48E7098FB6}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{1093BB98-FF06-4398-A8C1-1F48E7098FB6}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{1093BB98-FF06-4398-A8C1-1F48E7098FB6}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{1093BB98-FF06-4398-A8C1-1F48E7098FB6}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1093BB98-FF06-4398-A8C1-1F48E7098FB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1093BB98-FF06-4398-A8C1-1F48E7098FB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1093BB98-FF06-4398-A8C1-1F48E7098FB6}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{1093BB98-FF06-4398-A8C1-1F48E7098FB6}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{1093BB98-FF06-4398-A8C1-1F48E7098FB6}.Release|x64.ActiveCfg = Release|Any CPU
+		{1093BB98-FF06-4398-A8C1-1F48E7098FB6}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{45486CDE-86A3-4769-952F-E0821BF79493} = {8C9C334C-588E-41A1-85FC-9DC035821D27}
+		{1093BB98-FF06-4398-A8C1-1F48E7098FB6} = {8C9C334C-588E-41A1-85FC-9DC035821D27}
 		{24B00C6C-88BE-4F83-B2E1-8CC8F145BFB9} = {32470B4C-0665-44B9-9A55-AF9C671FDAA5}
 		{A8BCA98B-12E7-4E13-99FE-09DDCA10BB26} = {32470B4C-0665-44B9-9A55-AF9C671FDAA5}
 		{D629207E-B540-40F6-B2B4-5BCDD033EAD6} = {24B00C6C-88BE-4F83-B2E1-8CC8F145BFB9}
