@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>Alchemy</id>
+    <id>Alchemy.NetCookies</id>
     <version>2.2.1</version>
     <title>Alchemy Websockets</title>
     <authors>Jack Lawson, Drew Ditthardt</authors>
