@@ -9,9 +9,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Android.Runtime.ResourceDesignerAttribute("Alchemy.NetCookies.Monodroid.Resource", IsApplication=false)]
+[assembly: global::Android.Runtime.ResourceDesignerAttribute("Alchemy.NetCookies.Android.Resource", IsApplication=false)]
 
-namespace Alchemy.NetCookies.Monodroid
+namespace Alchemy.NetCookies.Android
 {
 	
 	

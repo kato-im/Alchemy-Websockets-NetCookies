@@ -19,7 +19,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alchemy", "test\Integration
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alchemy.NetCookies", "src\Alchemy.NetCookies\Alchemy.NetCookies.csproj", "{45486CDE-86A3-4769-952F-E0821BF79493}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alchemy.NetCookies.Monodroid", "src\Alchemy.NetCookies.Monodroid\Alchemy.NetCookies.Monodroid.csproj", "{1093BB98-FF06-4398-A8C1-1F48E7098FB6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alchemy.NetCookies.Android", "src\Alchemy.NetCookies.Android\Alchemy.NetCookies.Android.csproj", "{1093BB98-FF06-4398-A8C1-1F48E7098FB6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,0 +1,12 @@
+C:\git\Alchemy-Websockets-NetCookies\src\Alchemy.NetCookies.Android\bin\Debug\Alchemy.NetCookies.Android.config
+C:\git\Alchemy-Websockets-NetCookies\src\Alchemy.NetCookies.Android\bin\Debug\Alchemy.NetCookies.Android.dll
+C:\git\Alchemy-Websockets-NetCookies\src\Alchemy.NetCookies.Android\bin\Debug\Alchemy.NetCookies.Android.pdb
+C:\git\Alchemy-Websockets-NetCookies\src\Alchemy.NetCookies.Android\bin\Debug\Alchemy.NetCookies.Android.dll.mdb
+C:\git\Alchemy-Websockets-NetCookies\src\Alchemy.NetCookies.Android\bin\Debug\Alchemy.NetCookies.Android.apk
+C:\git\Alchemy-Websockets-NetCookies\src\Alchemy.NetCookies.Android\bin\Debug\Alchemy.NetCookies.Android-Signed.apk
+C:\git\Alchemy-Websockets-NetCookies\src\Alchemy.NetCookies.Android\obj\Debug\Alchemy.NetCookies.Android.dll
+C:\git\Alchemy-Websockets-NetCookies\src\Alchemy.NetCookies.Android\obj\Debug\Alchemy.NetCookies.Android.pdb
+C:\git\Alchemy-Websockets-NetCookies\src\Alchemy.NetCookies.Android\obj\Debug\android\bin\Alchemy.NetCookies.Android.apk
+C:\git\Alchemy-Websockets-NetCookies\src\Alchemy.NetCookies.Android\obj\Debug\res\values\strings.xml
+C:\git\Alchemy-Websockets-NetCookies\src\Alchemy.NetCookies.Android\obj\Debug\R.cs.flag
+C:\git\Alchemy-Websockets-NetCookies\src\Alchemy.NetCookies.Android\obj\Debug\uploadflags.txt

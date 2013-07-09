@@ -6,6 +6,5 @@ C:\git\Alchemy-Websockets-NetCookies\src\Alchemy\obj\Debug\Alchemy.NetCookies.pd
 C:\git\Alchemy-Websockets-NetCookies\src\Alchemy.NetCookies\bin\Debug\Alchemy.NetCookies.config
 C:\git\Alchemy-Websockets-NetCookies\src\Alchemy.NetCookies\bin\Debug\Alchemy.NetCookies.dll
 C:\git\Alchemy-Websockets-NetCookies\src\Alchemy.NetCookies\bin\Debug\Alchemy.NetCookies.pdb
-C:\git\Alchemy-Websockets-NetCookies\src\Alchemy.NetCookies\obj\Debug\Alchemy.NetCookies.csprojResolveAssemblyReference.cache
 C:\git\Alchemy-Websockets-NetCookies\src\Alchemy.NetCookies\obj\Debug\Alchemy.NetCookies.dll
 C:\git\Alchemy-Websockets-NetCookies\src\Alchemy.NetCookies\obj\Debug\Alchemy.NetCookies.pdb

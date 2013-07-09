@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package alchemy.netcookies.monodroid;
+package alchemy.netcookies.android;
 
 public final class R {
     public static final class attr {

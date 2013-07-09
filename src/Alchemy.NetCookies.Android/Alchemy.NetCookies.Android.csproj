@@ -9,8 +9,8 @@
     <ProjectTypeGuids>{EFBA0AD7-5A72-4C68-AF49-83D382785DCF};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Alchemy.NetCookies.Monodroid</RootNamespace>
-    <AssemblyName>Alchemy.NetCookies.Monodroid</AssemblyName>
+    <RootNamespace>Alchemy.NetCookies.Android</RootNamespace>
+    <AssemblyName>Alchemy.NetCookies.Android</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <AndroidResgenFile>Resources\Resource.Designer.cs</AndroidResgenFile>
     <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
@@ -67,7 +67,7 @@
     <Compile Include="WebSocketServer.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Alchemy.NetCookies.Monodroid.config">
+    <None Include="Alchemy.NetCookies.Android.config">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <None Include="Resources\AboutResources.txt" />
