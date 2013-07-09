@@ -1,0 +1,5 @@
+C:\git\Alchemy-Websockets-NetCookies\src\Alchemy.NetCookies.iOS\bin\iPhone\Debug\Alchemy.NetCookies.iOS.dll
+C:\git\Alchemy-Websockets-NetCookies\src\Alchemy.NetCookies.iOS\bin\iPhone\Debug\Alchemy.NetCookies.iOS.pdb
+C:\git\Alchemy-Websockets-NetCookies\src\Alchemy.NetCookies.iOS\obj\Debug\Alchemy.NetCookies.iOS.csprojResolveAssemblyReference.cache
+C:\git\Alchemy-Websockets-NetCookies\src\Alchemy.NetCookies.iOS\obj\Debug\Alchemy.NetCookies.iOS.dll
+C:\git\Alchemy-Websockets-NetCookies\src\Alchemy.NetCookies.iOS\obj\Debug\Alchemy.NetCookies.iOS.pdb

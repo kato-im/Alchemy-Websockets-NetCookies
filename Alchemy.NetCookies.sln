@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alchemy.NetCookies", "src\A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alchemy.NetCookies.Android", "src\Alchemy.NetCookies.Android\Alchemy.NetCookies.Android.csproj", "{1093BB98-FF06-4398-A8C1-1F48E7098FB6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Alchemy.NetCookies.iOS", "src\Alchemy.NetCookies.iOS\Alchemy.NetCookies.iOS.csproj", "{BBAD5563-900A-491F-A699-0C63D1BA366D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -83,6 +85,18 @@ Global
 		{1093BB98-FF06-4398-A8C1-1F48E7098FB6}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{1093BB98-FF06-4398-A8C1-1F48E7098FB6}.Release|x64.ActiveCfg = Release|Any CPU
 		{1093BB98-FF06-4398-A8C1-1F48E7098FB6}.Release|x86.ActiveCfg = Release|Any CPU
+		{BBAD5563-900A-491F-A699-0C63D1BA366D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBAD5563-900A-491F-A699-0C63D1BA366D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBAD5563-900A-491F-A699-0C63D1BA366D}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{BBAD5563-900A-491F-A699-0C63D1BA366D}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{BBAD5563-900A-491F-A699-0C63D1BA366D}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{BBAD5563-900A-491F-A699-0C63D1BA366D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{BBAD5563-900A-491F-A699-0C63D1BA366D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBAD5563-900A-491F-A699-0C63D1BA366D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBAD5563-900A-491F-A699-0C63D1BA366D}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{BBAD5563-900A-491F-A699-0C63D1BA366D}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{BBAD5563-900A-491F-A699-0C63D1BA366D}.Release|x64.ActiveCfg = Release|Any CPU
+		{BBAD5563-900A-491F-A699-0C63D1BA366D}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -90,6 +104,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{45486CDE-86A3-4769-952F-E0821BF79493} = {8C9C334C-588E-41A1-85FC-9DC035821D27}
 		{1093BB98-FF06-4398-A8C1-1F48E7098FB6} = {8C9C334C-588E-41A1-85FC-9DC035821D27}
+		{BBAD5563-900A-491F-A699-0C63D1BA366D} = {8C9C334C-588E-41A1-85FC-9DC035821D27}
 		{24B00C6C-88BE-4F83-B2E1-8CC8F145BFB9} = {32470B4C-0665-44B9-9A55-AF9C671FDAA5}
 		{A8BCA98B-12E7-4E13-99FE-09DDCA10BB26} = {32470B4C-0665-44B9-9A55-AF9C671FDAA5}
 		{D629207E-B540-40F6-B2B4-5BCDD033EAD6} = {24B00C6C-88BE-4F83-B2E1-8CC8F145BFB9}
